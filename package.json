@@ -1,0 +1,18 @@
+{
+  "name": "node-odbc-firebird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "express": "^4.18.1",
+    "odbc": "^2.4.4"
+  }
+}
